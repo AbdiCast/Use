@@ -8,4 +8,4 @@
     ```
 
 3. Abrir `ConsentPromptBehaviorAdmin` y cambiar "Información del valor" (_de `5`_) a `1` y dar clic en Aceptar.
-4. Desde ahora la computadora pedirá `contraseña`/`PIN` para cualquier acción de administrador en lugar de solo `Yes`/`No`_.
+4. _Desde ahora la computadora pedirá `contraseña`/`PIN` para cualquier acción de administrador en lugar de solo `Yes`/`No`_.
